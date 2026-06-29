@@ -1,0 +1,5 @@
+../Core/Src/blue.c:14:6:Blue_Init	16	static
+../Core/Src/blue.c:21:6:Blue_Update	136	static
+../Core/Src/blue.c:54:6:Blue_UI_Update	32	static
+../Core/Src/blue.c:91:6:Blue_SetLcdMode	16	static
+../Core/Src/blue.c:99:6:Blue_SendEMG	72	static

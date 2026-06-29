@@ -1,0 +1,6 @@
+../Core/Src/led.c:20:13:dataOut	3
+../Core/Src/led.c:38:13:ResetAnimation	1
+../Core/Src/led.c:49:6:LED_Init	1
+../Core/Src/led.c:54:6:ledUp	4
+../Core/Src/led.c:81:6:ledDown	4
+../Core/Src/led.c:108:6:ledOff	2

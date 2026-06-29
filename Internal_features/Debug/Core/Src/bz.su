@@ -1,0 +1,4 @@
+../Core/Src/bz.c:14:6:Buzzer_On	8	static
+../Core/Src/bz.c:19:6:Buzzer_Off	8	static
+../Core/Src/bz.c:25:6:Buzzer_Beep	16	static
+../Core/Src/bz.c:34:6:Buzzer_Task	8	static

@@ -1,0 +1,6 @@
+../Core/Src/stepper.c:32:13:Stepper_WritePhase	1
+../Core/Src/stepper.c:40:6:Stepper_Init	1
+../Core/Src/stepper.c:49:6:Stepper_StartContinuous	1
+../Core/Src/stepper.c:55:6:Stepper_Stop	1
+../Core/Src/stepper.c:61:6:Stepper_IsBusy	1
+../Core/Src/stepper.c:63:6:Stepper_Task	4

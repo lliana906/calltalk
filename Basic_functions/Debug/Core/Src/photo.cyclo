@@ -1,0 +1,9 @@
+../Core/Src/photo.c:24:23:Detected	1
+../Core/Src/photo.c:38:13:ReadNow	1
+../Core/Src/photo.c:45:20:DecodeFSM	13
+../Core/Src/photo.c:68:6:Photo_Init	1
+../Core/Src/photo.c:79:6:Photo_OnExti	5
+../Core/Src/photo.c:91:9:Photo_Task	10
+../Core/Src/photo.c:131:6:Photo_GetRaw	4
+../Core/Src/photo.c:138:13:Photo_GetFSM	2
+../Core/Src/photo.c:144:13:Photo_FSM_ToString	8

@@ -1,0 +1,2 @@
+../Core/Src/logger.c:15:6:Log_Init	1
+../Core/Src/logger.c:20:6:Log_Printf	4

@@ -1,0 +1,12 @@
+../Core/Src/resident_uart.c:23:13:StartRxIT	8	static
+../Core/Src/resident_uart.c:30:20:StateToStr	16	static
+../Core/Src/resident_uart.c:45:20:PhotoToStr	16	static
+../Core/Src/resident_uart.c:61:20:SimpleStateStr	16	static
+../Core/Src/resident_uart.c:76:13:Resident_AutoSendSimpleState	16	static
+../Core/Src/resident_uart.c:92:13:PrintHelp	8	static
+../Core/Src/resident_uart.c:103:13:PrintStatus	112	static
+../Core/Src/resident_uart.c:124:13:StrToUpper	24	static
+../Core/Src/resident_uart.c:129:13:HandleLine	88	static
+../Core/Src/resident_uart.c:176:6:ResidentUART_Init	16	static
+../Core/Src/resident_uart.c:185:6:ResidentUART_Task	8	static
+../Core/Src/resident_uart.c:195:6:HAL_UART_RxCpltCallback	24	static

@@ -1,0 +1,8 @@
+../Core/Src/elevator.c:28:6:Elevator_Init	1
+../Core/Src/elevator.c:37:6:Elevator_CallFloor	2
+../Core/Src/elevator.c:53:6:Elevator_CallOpen	1
+../Core/Src/elevator.c:64:6:Elevator_CallClose	1
+../Core/Src/elevator.c:75:6:Elevator_CallEMG	1
+../Core/Src/elevator.c:80:6:Elevator_Task	18
+../Core/Src/elevator.c:131:9:Elevator_GetCurrentFloor	1
+../Core/Src/elevator.c:135:16:Elevator_GetState	1

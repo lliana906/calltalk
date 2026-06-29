@@ -1,0 +1,15 @@
+../Core/Src/elevator.c:32:13:ClearAllRequests	16	static
+../Core/Src/elevator.c:43:13:ShouldStopHere	16	static
+../Core/Src/elevator.c:53:13:ConsumeStopRequests	16	static
+../Core/Src/elevator.c:61:13:PickNextTarget	48	static
+../Core/Src/elevator.c:93:13:StartMoveTo	24	static
+../Core/Src/elevator.c:110:13:UpdateFloorFromPhoto	16	static
+../Core/Src/elevator.c:119:13:ReachedTarget	16	static
+../Core/Src/elevator.c:128:6:Elevator_Init	8	static
+../Core/Src/elevator.c:138:6:Elevator_RequestCar	16	static
+../Core/Src/elevator.c:145:6:Elevator_InputTask	8	static
+../Core/Src/elevator.c:177:6:Elevator_Task	16	static
+../Core/Src/elevator.c:315:9:Elevator_GetCurrentFloor	4	static
+../Core/Src/elevator.c:316:16:Elevator_GetState	4	static
+../Core/Src/elevator.c:319:6:Elevator_ResumeFromEMG	4	static
+../Core/Src/elevator.c:328:6:Elevator_GetQueueString	96	static

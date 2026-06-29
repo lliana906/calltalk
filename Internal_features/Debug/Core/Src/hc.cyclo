@@ -1,0 +1,2 @@
+../Core/Src/hc.c:18:6:hc_LED_Init	1
+../Core/Src/hc.c:25:6:hc_LED_Update	4

@@ -1,0 +1,6 @@
+../Core/Src/servo.c:19:6:Servo_Init	8	static
+../Core/Src/servo.c:28:6:Servo_Open	4	static
+../Core/Src/servo.c:34:6:Servo_Close	4	static
+../Core/Src/servo.c:40:6:Servo_Run	8	static
+../Core/Src/servo.c:54:6:Servo_IsOpened	4	static
+../Core/Src/servo.c:55:6:Servo_IsClosed	4	static
